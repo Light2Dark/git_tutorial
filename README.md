@@ -5,7 +5,7 @@ A tutorial for beginners and intermediates at Git and Github!
 ![image](https://user-images.githubusercontent.com/19585239/128849641-8e60f119-d589-4286-b73d-aa3f32e6997c.png)
 ![image](https://user-images.githubusercontent.com/19585239/128849782-cc7b9728-5593-41e0-a52d-34e718f07e72.png)
 
-## Installation
+## Usage
 
 If you'd like to clone this and use as your own:
   1. Click Code
@@ -16,7 +16,7 @@ If you'd like to clone this and use as your own:
 git clone url
 ```
 
-## Contributing
+## Contributions
 
 If you have suggestions:
   1. Fork this repo
