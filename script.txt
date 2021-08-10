@@ -40,6 +40,10 @@ git remote -v # shows all the remote repositories for the project
 adding remote repo
 authentication, http and ssh, adding ssh key
 
+1) share your own repo
+2) group project
+3) collab with open source
+
 
 STORY
 Novella de Pofu
