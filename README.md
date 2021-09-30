@@ -46,8 +46,8 @@ If you'd like to clone this and use as your own:
 If you have suggestions / issues:
 - Open an issue in this repository or get in contact with us. The issue tab is the 2nd tab after <> Code
 
-OR\
-- Fork this repo and create a pull request.\
+OR
+- Fork this repo and create a pull request.
 - You can check this article on forking: https://www.dataschool.io/how-to-contribute-on-github/ 
 
 ## Credits
