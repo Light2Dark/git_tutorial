@@ -32,7 +32,7 @@ If you'd like to clone this and use as your own:
 10. Ask them to commit and push something new in a new branch
 11. Merge this changes
 12. Decide to abandon the whole thing and revert back to the first commit you ever made (use git checkout, add, commit)
-13. You can always git checkout back to the previous commit if needed\
+13. You can always git checkout back to the previous commit if needed
 
 #### Contribute-Repo Challenge
 14. Contribute to this repo by forking : [Forking Article](https://www.dataschool.io/how-to-contribute-on-github/)
