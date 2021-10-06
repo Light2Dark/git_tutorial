@@ -46,6 +46,7 @@ If you'd like to clone this and use as your own:
 [Bash Commands](https://www.educative.io/blog/bash-shell-command-cheat-sheet)\
 [Mosh Programming Tutorial](https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh)\
 [GitHub article](https://docs.github.com/en/get-started/quickstart/set-up-git)
+[Intermediate Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 
 ## Contributions
 
