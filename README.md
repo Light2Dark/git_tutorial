@@ -4,15 +4,15 @@
 
 ## Steps
 0. Let's say in GitHub there is a new branch created by a team member called <b>develop</b>
-1. Create a new branch in your local repo (name it anything you want)
+1. Create a new branch in your local repo (I'll name it waffles)
 2. Switch to that branch
-3. If you do a git pull, you will get an error saying that this branch does not know where to pull from
+3. If you do a git pull, you will get an error saying that this branch does not know where to pull from so..
 
 ```bash
-git branch --set-upstream-to=origin/<branch> branchName
+git branch --set-upstream-to=origin/develop waffles
 git pull
   OR
-git pull origin branchNameInGithub
+git pull origin develop
 ```
 
 4. The command above basically tells the branch where to pull from, and we will specify that we want this branch to pull
