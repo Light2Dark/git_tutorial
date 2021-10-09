@@ -4,6 +4,13 @@
 
 ## Steps
 0. Let's say in GitHub there is a new branch created by a team member called <b>develop</b>
+1. In your own machine, type:
+```bash
+git switch develop
+```
+
+## Behind The Scenes Steps (imagine you didn't do git switch)
+0. Let's say in GitHub there is a new branch created by a team member called <b>develop</b>
 1. Create a new branch in your local repo (I'll name it waffles)
 2. Switch to that branch
 3. If you do a git pull, you will get an error saying that this branch does not know where to pull from so..
