@@ -1,8 +1,8 @@
 # Git and Github Tutorial
 
-This branch is a testing branch for how you would want to work with branches in a team.
-Since git pull only fetches and merges the main branch of a repository, you need more commands to pull a branch into your local repo.
+#### This branch is a testing branch for how you would want to work with branches in a team. Since git pull only fetches and merges the main branch of a repository, you need more commands to pull a branch into your local repo.
 
+## Steps
 0. Let's say in GitHub there is a new branch created by a team member called <b>develop</b>
 1. Create a new branch in your local repo (name it anything you want)
 2. Switch to that branch
